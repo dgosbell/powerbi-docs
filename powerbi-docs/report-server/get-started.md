@@ -39,6 +39,7 @@ If a customer purchases [Fabric F64+ reserved instances](/fabric/enterprise/lice
 > * F SKUs that are F64 or higher [reserved instances](/azure/cost-management-billing/reservations/fabric-capacity).
 > * SQL Server 2025 (all editions)
 > * SQL Server 2022 or earlier, Enterprise Edition _with Software Assurance_
+>
 > It is **not** included with A or EM SKUs 
 
 ## Web portal
