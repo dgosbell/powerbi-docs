@@ -34,7 +34,12 @@ Similar to SQL Server licensing, customers may run the Power BI Report Server so
 If a customer purchases [Fabric F64+ reserved instances](/fabric/enterprise/licenses), a Power BI Pro license is required to publish both paginated and Power BI reports in PBIRS. However, for SQL Server editions, a Power BI Pro license is only required for publishing Power BI reports in PBIRS. A Power BI Pro license is not required to view and interact with paginated and Power BI reports on Power BI Report Server.
 
 > [!NOTE]
-> For Power BI Premium, Power BI Report Server is only included with P SKUs. It's not included with EM SKUs. Power BI Report Server is also **not** included with any F SKUs under F64 reserved instance.
+> Power BI Report Server is included with: 
+> * P SKUs
+> * F SKUs that are F64 or higher [reserved instances](/azure/cost-management-billing/reservations/fabric-capacity).
+> * SQL Server 2025 (all editions)
+> * SQL Server 2022 or earlier, Enterprise Edition _with Software Assurance_
+> It is **not** included with A or EM SKUs 
 
 ## Web portal
 
